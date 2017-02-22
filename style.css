@@ -1,0 +1,47 @@
+body{
+  height: 100vh;
+  width: 100vw;
+  background-color: rgb(1, 6, 8);
+}
+
+.box1{
+  background-color: rgb(113, 39, 18);
+  float:left;
+}
+.box{
+  display:flex;
+  flex-wrap:wrap;
+  flex-direction:row;
+  width: 50px;
+  height:40px;
+  background-color: rgb(91, 176, 24);
+  margin: 100px;
+
+}
+.box0{
+
+  height: 100px;
+  width: 150px;
+  background-color: white;
+  margin-left: auto;
+}
+.box3{
+  background-color: rgb(157, 15, 175);
+  float:right;
+}
+.box5{
+  background-color: rgb(74, 10, 30);
+  float:right;
+}
+.box7{
+  float:right;
+  background-color: rgb(16, 179, 107);
+}
+.box9{
+  float:right;
+  background-color: rgb(209, 124, 6);
+}
+.box11{
+  float:right;
+  background-color: rgb(71, 68, 61);
+}
